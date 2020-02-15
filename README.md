@@ -1,0 +1,2 @@
+# SemEval-2020
+GitHub repository for SemEval 2020 Task 11 - "DETECTION OF PROPAGANDA TECHNIQUES IN NEWS ARTICLES"
