@@ -1,7 +1,7 @@
 import sys
 import src.annotation as an
 
-class AnnotationTaskSI(Annotation)
+class AnnotationTaskSI(an.Annotation):
 
     def __init__(self, label=None, start_offset = None, end_offset=None): #, article_id=None):
         
