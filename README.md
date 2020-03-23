@@ -18,11 +18,11 @@ Team members:
 
 Vinay Damodaran
 
-Kavya Neralla
+Kavya Nerella
 
 Kinjal Jain
 
-Aiswariya Vinodkumar
+Aiswarya Vinod Kumar
 
 Your passcode is: 09a82da0c499303f2f174099959f44ca
 
