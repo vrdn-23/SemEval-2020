@@ -2,34 +2,25 @@ import os
 
 DEV_ARTICLES_DIR = "datasets/dev-articles/"
 
-sentences = []
-counter = 0
+res = open("datasets/dev-SI.txt", 'w')
+
 for filename in os.listdir(DEV_ARTICLES_DIR):
-    counter += 1
     with open(DEV_ARTICLES_DIR + filename, 'r') as f:
-        sen = ""
-        start = 0
-        end_counter = 0
-        c = f.read(1)
-        sen += c
-        while c != '':
-            if c == ' ':
-                end_counter = 0
-            if c == '\n':
-                if end_counter == 0:
-                    sen = sen[:-1]
-                    sentences.append('\t'.join([sen, filename, str(start - len(sen))]))
-                    sen = ""
-                    end_counter += 1
-                else:
-                    sen = sen[:-1]
-            start += 1
-            c = f.read(1)
-            sen += c
-        if sen != '':
-            sentences.append('\t'.join([sen, filename, str(start - len(sen))]))
+        offset = 0
+        for line in f:
+            sentence_offset = offset
+            labels = []
+            words = line.rstrip().split(" ")
+            if len(words) == 1 and words[0] == '':
+                offset += 1
+                continue
+            for word in words:
+                word_starting_off = offset
+                word_ending_off = offset + len(word) - 1
+                offset += len(word) + 1
 
-with open("datasets/dev-SI.txt", 'w') as f:
-    f.writelines(["%s\n" % x for x in sentences])
+            res.write("\t".join([" ".join(words), filename, str(sentence_offset)]))
+            res.write("\n")
 
+res.close()
 print("Done.")

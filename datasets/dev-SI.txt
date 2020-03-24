@@ -77,7 +77,8 @@ Tillerson said he received a call from Trump around noon Tuesday, more than thre
 His voice quivering, Tillerson thanked career diplomats for their “honesty and integrity” and the American people for “acts of kindness,” and he singled out Defense Secretary Jim Mattis for their partnership and mutual support of diplomacy.	article738447109.txt	1830
 But he notably did not thank Trump or praise his policies.	article738447109.txt	2071
 Tillerson said he will remain in his post until March 31 but is delegating all authorities for running the State Department to Deputy Secretary John Sullivan and is committed to ensuring “an orderly and smooth transition.” The deposed diplomat also made a clear statement about Russian aggression: “Much work remains to respond to the troubling behavior and actions on the part of the Russian government.”	article738447109.txt	2130
-﻿CNBC reports that Tillerson was not the only firing that took place on Tuesday:	article738447109.txt	2537
+﻿	article738447109.txt	2536
+CNBC reports that Tillerson was not the only firing that took place on Tuesday:	article738447109.txt	2538
 On Tuesday morning, State Department spokesman Steve Goldstein said Tillerson had no plans to leave.	article738447109.txt	2618
 He “did not speak to the president this morning and is unaware of the reason” for his firing, the spokesman added.	article738447109.txt	2719
 Two White House officials told the Associated Press that Tillerson found out he was fired Friday.	article738447109.txt	2834
@@ -92,7 +93,8 @@ Her name was on the Top Secret order demanding the destruction of tapes to preve
 Incredible.” Snowden tweeted.	article738447109.txt	4106
 The new CIA director was a key part of the torture program and its illegal cover-up.	article738447109.txt	4136
 Her name was on the Top Secret order demanding the destruction of tapes to prevent them being seen by Congress.	article738447109.txt	4221
-Incredible.https://t.co/HjVHCPCbpo https://t.co/VamIGa1A8w — Edward Snowden (@Snowden) March 13, 2018	article738447109.txt	4334
+Incredible.	article738447109.txt	4333
+https://t.co/HjVHCPCbpo https://t.co/VamIGa1A8w — Edward Snowden (@Snowden) March 13, 2018	article738447109.txt	4345
 “Interesting: The new CIA Director Haspel, who ‘tortured some folks,’ probably can’t travel to the EU to meet other spy chiefs without facing arrest due to an @ECCHRBerlin complaint to Germany’s federal prosecutor,” tweeted Snowden.	article738447109.txt	4436
 Interesting: The new CIA Director Haspel, who "tortured some folks," probably can't travel to the EU to meet other spy chiefs without facing arrest due to an @ECCHRBerlin complaint to Germany's federal prosecutor.	article738447109.txt	4669
 Details: https://t.co/7q4euQKtm7 — Edward Snowden (@Snowden) March 13, 2018	article738447109.txt	4883
@@ -119,7 +121,8 @@ Police had previously gone to home where Ohio patrol officers were killed	articl
 CLEVELAND — Police invstigating domestic disputes had previously gone to the home where a man fatally shot two police officers over the weekend, but no arrests were ever made, police reports from the Columbus suburb of Westerville show.	article730081389.txt	75
 Westerville Officers Eric Joering, 39, and Anthony Morelli, 54, were killed shortly after noon Saturday in this normally quiet suburb while responding to a 911 hang-up call.	article730081389.txt	312
 The suspect, 30-year-old Quentin Smith, was shot and wounded by the officers and taken to Ohio State University Wexner Medical Center in critical condition Saturday.	article730081389.txt	486
-AdvertisementA series of 911 calls released by the city of Westerville provide some details about what happened Saturday at a complex of town houses.	article730081389.txt	653
+Advertisement	article730081389.txt	652
+A series of 911 calls released by the city of Westerville provide some details about what happened Saturday at a complex of town houses.	article730081389.txt	666
 Smith lived there with his wife, Candace, and a young daughter.	article730081389.txt	803
 Get Ground Game in your inbox: Daily updates and analysis on national politics from James Pindell.	article730081389.txt	867
 Sign Up Thank you for signing up!	article730081389.txt	966
@@ -131,7 +134,8 @@ At 12:12 p.m., an officer tells a dispatcher that it’s ‘‘all quiet right n
 At 12:13 p.m., after a dispatcher confirmed contact has been made, a man’s voice could be heard yelling, ‘‘We have shots fired.’’	article730081389.txt	1472
 Four minutes later, someone, presumably a police officer, told a dispatcher: ‘‘We have two officers down.	article730081389.txt	1602
 Child on couch, one at gunpoint.’’	article730081389.txt	1708
-AdvertisementASSOCIATED PRESS	article730081389.txt	1744
+Advertisement	article730081389.txt	1743
+ASSOCIATED PRESS	article730081389.txt	1757
 Documents: Muslims Arrested In New Mexico Compound Were Training Children To Carry Out School Shootings	article778094905.txt	0
 On Tuesday, it was reported that 11 children were rescued from an Islamic compound in New Mexico and that a Muslim man from Georgia and four other adults were arrested.	article778094905.txt	105
 Now, we are learning what one of the men was attempting to do with these children.	article778094905.txt	274
@@ -204,10 +208,12 @@ Six former Trump advisers have been indicted for process crimes, including perju
 However, there have been no indictments related to alleged Trump campaign collusion with Russia.	article832908905.txt	3335
 Trump has insisted from the beginning that the probe is a “witch hunt.”	article832908905.txt	3432
 Rep. Mark Meadows, R-N.C., who has investigated Russian interference as a member of the House Oversight and Government Reform Committee, has been a critic of the Mueller probe.	article832908905.txt	3504
-‏“The Mueller report delivery suggests no more indictments are coming from the Special Counsel.	article832908905.txt	3682
+‏	article832908905.txt	3681
+“The Mueller report delivery suggests no more indictments are coming from the Special Counsel.	article832908905.txt	3683
 If that’s true, it would mean we just completed 2 years of investigating ‘Russian collusion’ without ONE collusion related indictment.	article832908905.txt	3778
 Not even one,” he wrote on Twitter.	article832908905.txt	3913
-“Why?Because there was no collusion.”	article832908905.txt	3950
+“Why?	article832908905.txt	3949
+Because there was no collusion.”	article832908905.txt	3955
 Make full Mueller report public, Democratic candidates demand	article832913316.txt	0
 © Provided by Oath Inc. Attorney General William Barr leaves his home in McLean, Va., on Friday, March 22, 2019.	article832913316.txt	63
 (AP Photo/Jose Luis Magana)	article832913316.txt	176
@@ -219,7 +225,8 @@ The American people deserve to know the full truth about Russia’s interference
 The Special Counsel report must be publicly released in its entirety.	article832913316.txt	895
 https://t.co/Q5OT6zPpOg — Julián Castro (@JulianCastro) March 22, 2019	article832913316.txt	965
 Attorney General Barr—release the Mueller report to the American public.	article832913316.txt	1036
-Now.https://t.co/sqz8eoTjLD — Elizabeth Warren (@ewarren) March 22, 2019	article832913316.txt	1110
+Now.	article832913316.txt	1109
+https://t.co/sqz8eoTjLD — Elizabeth Warren (@ewarren) March 22, 2019	article832913316.txt	1114
 Special counsel Mueller’s report should be made public without any delay.	article832913316.txt	1183
 The American people have a right to know its findings.	article832913316.txt	1257
 — Kirsten Gillibrand (@SenGillibrand) March 22, 2019	article832913316.txt	1312
@@ -230,7 +237,8 @@ During his January confirmation hearings before the Senate Judiciary Committee, 
 “I also believe it is very important that the public and Congress be informed of the results of the special counsel’s work.	article832913316.txt	2076
 For that reason my goal will be to provide as much transparency as I can consistent with the law,” Barr told the committee.	article832913316.txt	2200
 “I can assure you that, where judgments are to be made by me, I will make those judgments based solely on the law and will let no personal, political or other improper interests influence my decision.”	article832913316.txt	2324
-_____Read more from Yahoo News:	article832913316.txt	2527
+_____	article832913316.txt	2526
+Read more from Yahoo News:	article832913316.txt	2532
 Humanity’s WIPEOUT Foreshadowed?	article738028498.txt	0
 World Health Chief: Global Pandemic Imminent	article738028498.txt	33
 According to a World Health Organization doctor, a global pandemic is imminent, and no one will be prepared for it when it hits.	article738028498.txt	79
@@ -361,7 +369,8 @@ Should Jim Acosta have gotten his press pass back?	article999000874.txt	1077
 Should Jim Acosta have gotten his press pass back?	article999000874.txt	1128
 * Yes, he should have gotten it back.	article999000874.txt	1179
 No, you can't act like a child and keep your pass.	article999000874.txt	1217
-Maybe?I'm not sure if he should have.	article999000874.txt	1269
+Maybe?	article999000874.txt	1268
+I'm not sure if he should have.	article999000874.txt	1275
 Email *	article999000874.txt	1307
 Phone This field is for validation purposes and should be left unchanged.	article999000874.txt	1315
 Completing this poll grants you access to Truth Uncensored updates free of charge.	article999000874.txt	1389
@@ -409,7 +418,8 @@ You may opt out at anytime.	article788273361.txt	829
 You also agree to this site's Privacy Policy and Terms of Use.	article788273361.txt	857
 Monahan is Ellison’s former girlfriend, and she came forward a month ago to say the Democrat, now seeking an attorney general’s slot in Minnesota, sent her threatening text messages and physically hurt her in one of their confrontations.	article788273361.txt	920
 Yet Democrats don’t think his accuser meets the same threshhold as Kavanaugh’s accuser?	article788273361.txt	1158
-Apparently.More, from Fox News:	article788273361.txt	1247
+Apparently.	article788273361.txt	1246
+More, from Fox News:	article788273361.txt	1258
 The woman who accused Minnesota Democratic Rep. Keith Ellison of domestic abuse said on Monday that Democrats don’t believe her story and threatened to isolate her over the allegations.	article788273361.txt	1279
 Karen Monahan, a former girlfriend, came forward last month alleging that Ellison sent her threatening text messages and once screamed obscenities at her as he dragged her off a bed by her feet.	article788273361.txt	1465
 Ellison has denied the accusations, saying he “never behaved this way.” He did acknowledge he was in a relationship with the woman.	article788273361.txt	1660
@@ -467,7 +477,8 @@ Should Jim Acosta have gotten his press pass back?	article999000858.txt	1091
 Should Jim Acosta have gotten his press pass back?	article999000858.txt	1142
 * Yes, he should have gotten it back.	article999000858.txt	1193
 No, you can't act like a child and keep your pass.	article999000858.txt	1231
-Maybe?I'm not sure if he should have.	article999000858.txt	1283
+Maybe?	article999000858.txt	1282
+I'm not sure if he should have.	article999000858.txt	1289
 Email *	article999000858.txt	1321
 Email This field is for validation purposes and should be left unchanged.	article999000858.txt	1329
 Completing this poll grants you access to Truth Uncensored updates free of charge.	article999000858.txt	1403
@@ -572,7 +583,8 @@ Rep. Adam Schiff (D-CA), chairman of House Intelligence, called for transparency
 “Mueller’s investigation began as a counterintelligence inquiry into whether individuals associated with the Trump campaign were compromised by a foreign power.	article832908730.txt	1658
 By law, that evidence he uncovered must be shared with our Committee,” he said in a tweet.	article832908730.txt	1819
 “And his report must also be made public.	article832908730.txt	1910
-Now.”Trump has previously said he supports the idea of making the report public.	article832908730.txt	1953
+Now.”	article832908730.txt	1952
+Trump has previously said he supports the idea of making the report public.	article832908730.txt	1958
 “I don’t mind,” he has said.	article832908730.txt	2034
 “I mean, frankly, I told the House, ‘If you want, let them see it.’”	article832908730.txt	2063
 Trump has also vigorously denied any wrongdoing and has repeatedly branded the probe as a “total witch hunt.”	article832908730.txt	2132
@@ -692,7 +704,8 @@ A procession was held this morning for the fallen officers, leading from the cor
 Dozens of officers outside the coroners office honoring the fallen Westerville officers.	article730246508.txt	2205
 We’ll share the escort live in a few minutes on CPD Facebook.	article730246508.txt	2294
 @tellwesterville @WestervillePD pic.twitter.com/OVGUvozPDZ — Columbus Ohio Police (@ColumbusPolice) February 12, 2018	article730246508.txt	2356
-WBNSMorelli, 54, was a 29-year veteran of the department.	article730246508.txt	2475
+WBNS	article730246508.txt	2474
+Morelli, 54, was a 29-year veteran of the department.	article730246508.txt	2479
 Westerville Police Department	article730246508.txt	2533
 Joering, 39, was a 16-year veteran of the department.	article730246508.txt	2563
 Westerville Police Department	article730246508.txt	2617
@@ -719,7 +732,8 @@ Their deaths are a terrible tragedy for my hometown of Westerville and all of Oh
 (1/2) — John Kasich (@JohnKasich) February 10, 2018	article730246508.txt	4843
 New York City Police Commissioner James O'Neill also spoke out, tweeting, "Everyone should be as upset about this as America’s law enforcement officers are.	article730246508.txt	4895
 No cop, anywhere, 'signed up' to be murdered."	article730246508.txt	5052
-.@WestervillePD confirms 2 officers ambushed & killed today after responding to a 911 hang-up; fired upon when they arrived at the address.	article730246508.txt	5100
+.	article730246508.txt	5099
+@WestervillePD confirms 2 officers ambushed & killed today after responding to a 911 hang-up; fired upon when they arrived at the address.	article730246508.txt	5101
 Everyone should be as upset about this as America’s law enforcement officers are.	article730246508.txt	5240
 No cop, anywhere, “signed up” to be murdered.	article730246508.txt	5322
 #NYPD pic.twitter.com/JZcso4cguN — Commissioner O'Neill (@NYPDONeill) February 10, 2018	article730246508.txt	5368
@@ -777,7 +791,8 @@ Should Jim Acosta have gotten his press pass back?	article999001211.txt	1070
 Should Jim Acosta have gotten his press pass back?	article999001211.txt	1121
 * Yes, he should have gotten it back.	article999001211.txt	1172
 No, you can't act like a child and keep your pass.	article999001211.txt	1210
-Maybe?I'm not sure if he should have.	article999001211.txt	1262
+Maybe?	article999001211.txt	1261
+I'm not sure if he should have.	article999001211.txt	1268
 Email *	article999001211.txt	1300
 Email This field is for validation purposes and should be left unchanged.	article999001211.txt	1308
 Completing this poll grants you access to Freedom Outpost updates free of charge.	article999001211.txt	1382
@@ -787,7 +802,8 @@ You also agree to this site's Privacy Policy and Terms of Use.	article999001211.
 “But, given the position taken by CNN, we now feel obligated to replace previously shared practices with explicit rules.”	article999001211.txt	1812
 Oh, but there's more.	article999001211.txt	1934
 If journalists can't conduct themselves according to these rules, then there is no other option but to.... write more explicit rules!	article999001211.txt	1956
-Seriously!“At this time, however, we have decided not to frame such rules in the hope that professional journalistic norms will suffice to regulate conduct in those places,” Sanders said.	article999001211.txt	2091
+Seriously!	article999001211.txt	2090
+“At this time, however, we have decided not to frame such rules in the hope that professional journalistic norms will suffice to regulate conduct in those places,” Sanders said.	article999001211.txt	2101
 “If unprofessional behavior occurs in those settings, or if a court should decide that explicit rules are required to regulate conduct there, we will be forced to reconsider this decision.”	article999001211.txt	2279
 The White House should be telling Judge Kelly where he can take his ruling, but they are trying to look like they are on the high ground while submitting to unconstitutional rulings from a federal judge who should know better.	article999001211.txt	2469
 However, here are the new rules released by the White House Press Office.	article999001211.txt	2696
@@ -917,7 +933,8 @@ Tommy is a hero.	article761955563.txt	4227
 It is a disgrace that he is still in jail.	article761955563.txt	4244
 I have been invited to a major protest demonstration in London next week, and I will be coming.	article761955563.txt	4287
 Free Tommy now.	article761955563.txt	4383
-Indeed!Free Tommy Robinson now!	article761955563.txt	4400
+Indeed!	article761955563.txt	4399
+Free Tommy Robinson now!	article761955563.txt	4407
 Yikes!	article738442776.txt	0
 Even John McCain is worried about Trump’s CIA pick	article738442776.txt	7
 Personal Liberty Poll Exercise your right to vote.	article738442776.txt	59
@@ -949,7 +966,8 @@ Authorities said he was wounded and was treated at a hospital.	article730093263.
 In a Nov. 29 incident, Candace Smith, 33, went to a police station and asked about protection orders because she said she and her husband weren’t getting along and she discovered she had a sexually transmitted disease.	article730093263.txt	1753
 She also told police that when she “threatens to leave Quentin, he tells her that he would kill her, their daughter, and himself,” the report said.	article730093263.txt	1972
 Candace Smith told police her husband “has a gun that he carries all of the time, and if it isn’t on him, it is close by.” Police were called to the home later that night to investigate a report of domestic violence.	article730093263.txt	2120
-[More]Anyhow, they have now released a different photo (above)and it is the same guy, and he is black.	article730093263.txt	2338
+[More]	article730093263.txt	2337
+Anyhow, they have now released a different photo (above)and it is the same guy, and he is black.	article730093263.txt	2344
 This goes in our "Black Murders Of White Cops" category, and also in our "Not Reporting Race" category, since except for the photograph, there's no mention of the race issue.Officers Anthony Morelli and Eric Joering are dead, and Smith is alive in hospital.	article730093263.txt	2441
 If these two men had survived, and Quentin Lamar Smith had died, you'd be hearing a lot about the race issue.	article730093263.txt	2699
 Federal Judge Overrides DOJ & Violates First Amendment: Blocks 3D-Printed Gun Plans	article776126299.txt	0
@@ -981,9 +999,15 @@ Why, yes, yes they are serious.	article776126299.txt	2240
 Deadly serious.	article776126299.txt	2272
 It makes perfect sense when you have the same people who have absolutely no problem with mothers hiring hitmen to murder their babies in their wombs in the most brutal and barbaric fashion, and then sell off their body parts for profit, if they don't throw them in the trash or flush them down a toilet, calling for computer files to be kept by the government and not be allowed to be released to the public.	article776126299.txt	2288
 The eight states are the usual suspects, along with the District of Columbia, and we should note which ones they are.	article776126299.txt	2697
-WashingtonConnecticutMarylandNew Jersey	article776126299.txt	2818
+Washington	article776126299.txt	2815
+Connecticut	article776126299.txt	2826
+Maryland	article776126299.txt	2838
+New Jersey	article776126299.txt	2847
 New York	article776126299.txt	2858
-OregonMassachusettsPennsylvaniaWashington's Attorney General Bob Ferguson's office claims the settlement is:	article776126299.txt	2870
+Oregon	article776126299.txt	2867
+Massachusetts	article776126299.txt	2874
+Pennsylvania	article776126299.txt	2888
+Washington's Attorney General Bob Ferguson's office claims the settlement is:	article776126299.txt	2901
 ...in violation of the Administrative Procedure Act....there is no indication in the settlement agreement or elsewhere that any analysis, study or determination was made by the government defendants in consultation with other agencies, before the federal government agreed to lift export controls on the downloadable guns.	article776126299.txt	2979
 In fact, the agreement states that it "does not reflect any agreed-upon purpose other than the desire of the Parties to reach a full and final conclusion of the Action, and to resolve the Action without the time and expense of further litigation."	article776126299.txt	3302
 The lawsuit also argues the settlement violates the Tenth Amendment by infringing on states' rights to regulate firearms.	article776126299.txt	3550
@@ -1142,7 +1166,9 @@ On "State of the Union," Paul added, "I'll do whatever it takes, and that includ
 "I don't have the power to stop her nomination," he said of Haspel.	article740235127.txt	1363
 "There's enough votes she'll eventually win.	article740235127.txt	1431
 Few things in life .	article740235127.txt	1476
-..[are] worth standing up saying 'enough is enough.'"	article740235127.txt	1499
+.	article740235127.txt	1497
+.	article740235127.txt	1499
+[are] worth standing up saying 'enough is enough.'"	article740235127.txt	1501
 "We are not a people that should be so fearful or vengeful that we think that torture is somehow acceptable," he added.	article740235127.txt	1553
 "On what level could torture ever be acceptable?	article740235127.txt	1673
 We should make a stand on this.	article740235127.txt	1722
@@ -1179,7 +1205,8 @@ Should Jim Acosta have gotten his press pass back?	article999001259.txt	659
 Should Jim Acosta have gotten his press pass back?	article999001259.txt	710
 * Yes, he should have gotten it back.	article999001259.txt	761
 No, you can't act like a child and keep your pass.	article999001259.txt	799
-Maybe?I'm not sure if he should have.	article999001259.txt	851
+Maybe?	article999001259.txt	850
+I'm not sure if he should have.	article999001259.txt	857
 Email *	article999001259.txt	889
 Email This field is for validation purposes and should be left unchanged.	article999001259.txt	897
 Completing this poll grants you access to Freedom Outpost updates free of charge.	article999001259.txt	971
@@ -1333,7 +1360,8 @@ The three females believed to be the mothers of the eleven children, Jany Leveil
 “We all gave the kids our water and what snacks we had – it was the saddest living conditions and poverty I have seen.”	article777785889.txt	3654
 None of the adults would give statement to the current whereabouts of AG Wahhaj, but it is reasonably believed he was there a few weeks ago.	article777785889.txt	3774
 The investigation is fluid and ongoing.	article777785889.txt	3915
-Advertisementscomments	article777785889.txt	3957
+Advertisements	article777785889.txt	3955
+comments	article777785889.txt	3970
 Linda Sarsour's Mentor, The WTC Bombing & A School Shooting Plot In New Mexico	article778507244.txt	0
 When the left made Linda Sarsour into its role model, it climbed into bed with the worst of the worst.	article778507244.txt	80
 The father of a missing 4-year-old Georgia boy was training children at a filthy New Mexico compound to commit school shootings, prosecutors alleged in court documents Wednesday.	article778507244.txt	183
@@ -1372,7 +1400,8 @@ Should Jim Acosta have gotten his press pass back?	article999001299.txt	1084
 Should Jim Acosta have gotten his press pass back?	article999001299.txt	1135
 * Yes, he should have gotten it back.	article999001299.txt	1186
 No, you can't act like a child and keep your pass.	article999001299.txt	1224
-Maybe?I'm not sure if he should have.	article999001299.txt	1276
+Maybe?	article999001299.txt	1275
+I'm not sure if he should have.	article999001299.txt	1282
 Email *	article999001299.txt	1314
 Email This field is for validation purposes and should be left unchanged.	article999001299.txt	1322
 Completing this poll grants you access to Freedom Outpost updates free of charge.	article999001299.txt	1396
@@ -1411,7 +1440,8 @@ Statement from Jay Wallace below: pic.twitter.com/1EyRkho0TK — CNN Communicati
 Here's the thing, if it is a right to have a press pass to the White House, where is mine?	article999001299.txt	4641
 and yours?	article999001299.txt	4732
 How about Infowars?	article999001299.txt	4743
-See?It isn't a right and Fox News just pulled the mask off, people.	article999001299.txt	4764
+See?	article999001299.txt	4763
+It isn't a right and Fox News just pulled the mask off, people.	article999001299.txt	4768
 Do you see who they really are now?	article999001299.txt	4832
 If not, I can't help you.	article999001299.txt	4868
 The Brennan-Rosenstein-Mueller–Comey-Presstitute	article781672902.txt	0
@@ -1460,7 +1490,8 @@ Knowing this, Mueller, in my opinion a proven corrupt person, decided to put the
 This tactic is used every day by state, local, and federal prosecutors.	article781672902.txt	6971
 Americans who believe the indictments and convictions are unaware that 97% of the time the convictions rest on self-incrimination in order to avoid worse punishment.	article781672902.txt	7043
 In Manafort’s case it didn’t, or hasn’t, worked.	article781672902.txt	7209
-Yet.Manafort is due for a second trial, this time for allegely acting as an unregistered foreign agent for Ukrainian interests and for making false statements not under oath to the US government.	article781672902.txt	7259
+Yet.	article781672902.txt	7258
+Manafort is due for a second trial, this time for allegely acting as an unregistered foreign agent for Ukrainian interests and for making false statements not under oath to the US government.	article781672902.txt	7263
 Reportedly, Manafort is being held in solitary confinement, a form of torture designed to break a person’s spirit.	article781672902.txt	7455
 Like Manafort’s first trial, his second trial has nothing whatsoever to do with Russiagate, but you will never learn that from the presstitute media or from the Democratic Party.	article781672902.txt	7570
 Manafort can still be coerced to say something that can be used to drive Trump from office.	article781672902.txt	7749
@@ -1478,7 +1509,8 @@ Nevertheless, Cohen’s plea is associated with a case brought by another prosec
 I am not sufficiently familiar with US legal procedures to be able to say how this gets brought back into Mueller’s investigation.	article781672902.txt	9138
 The facts are this:	article781672902.txt	9269
 The US military/security complex will not permit any normalization of relations with Russia.	article781672902.txt	9289
-Period.At some point Putin and Lavrov and the idiot Russian Atlanticist Integrationists will have to acknowledge this fact, or Russia will be destroyed.	article781672902.txt	9383
+Period.	article781672902.txt	9382
+At some point Putin and Lavrov and the idiot Russian Atlanticist Integrationists will have to acknowledge this fact, or Russia will be destroyed.	article781672902.txt	9390
 Trump, by declaring normalization of relations as one of his two principal goals for his presidency, earned the emnity of the powerful military/security complex.	article781672902.txt	9536
 By defeating Hillary for the presidency, Trump inflamed the US media’s hatred, committed as the presstitutes are to Identity Politics and hatred of the “white male oppressors” who elected Trump.	article781672902.txt	9698
 Trump will never be forgiven for preventing the election of the first female president of the United States, an unpardonable crime by a misogynist white male who “grabs women by the pussy.”	article781672902.txt	9893
@@ -1601,7 +1633,8 @@ People are still going to search for information, and alternative forms of infor
 More and more people see it this way because our consciousness continues to shift.	article798244842.txt	7739
 Social media platforms do not control the awakening but have been a great tool to grow it, but it’s something that cannot be stopped.	article798244842.txt	7822
 The more we awaken and truly see past the political games, the more we pull power from the power grid that keeps all this in place.	article798244842.txt	7956
-2020Now, all of this seems to be taking place with perfect timing before the 2020 election.	article798244842.txt	8089
+2020	article798244842.txt	8088
+Now, all of this seems to be taking place with perfect timing before the 2020 election.	article798244842.txt	8093
 No doubt that the Deep State will want to take back the presidency, but ultimately, we need to see the bigger picture here.	article798244842.txt	8181
 We need to see what politics actually is, and the past few years alone have provided us with the opportunity to see.	article798244842.txt	8305
 It’s nothing but elite people, corporations and the financial elite that have become drenched with so much power that they have been able to direct human will and use it for their own selfish purposes.	article798244842.txt	8422
@@ -1643,7 +1676,8 @@ Should Jim Acosta have gotten his press pass back?	article999001280.txt	1072
 Should Jim Acosta have gotten his press pass back?	article999001280.txt	1123
 * Yes, he should have gotten it back.	article999001280.txt	1174
 No, you can't act like a child and keep your pass.	article999001280.txt	1212
-Maybe?I'm not sure if he should have.	article999001280.txt	1264
+Maybe?	article999001280.txt	1263
+I'm not sure if he should have.	article999001280.txt	1270
 Email *	article999001280.txt	1302
 Name This field is for validation purposes and should be left unchanged.	article999001280.txt	1310
 Completing this poll grants you access to Freedom Outpost updates free of charge.	article999001280.txt	1383
@@ -1720,7 +1754,8 @@ The caller reported she was assaulted by Keith Ellison.	article784382409.txt	264
 pic.twitter.com/bVmrrZHC3h — JohnGilmore (@Shabbosgoy) August 13, 2018	article784382409.txt	2705
 Alexander is not the only woman to make abuse accusations against Ellison.	article784382409.txt	2776
 On August 11, 2018, a woman by the name of Karen Monahan accused Ellison of being physically and verbally abusive towards her.	article784382409.txt	2851
-.@Jerickaduncan to Karen Monahan, who accuses ex-boyfriend Rep. Keith Ellison of domestic abuse in 9/2016 incident: "Did you call anybody after that?"	article784382409.txt	2979
+.	article784382409.txt	2978
+@Jerickaduncan to Karen Monahan, who accuses ex-boyfriend Rep. Keith Ellison of domestic abuse in 9/2016 incident: "Did you call anybody after that?"	article784382409.txt	2980
 Monahan: "I called a friend, & I said, 'I'm at the lowest of the low.'"	article784382409.txt	3130
 Ellison denies the allegations.	article784382409.txt	3202
 https://t.co/w6GFpTp758 pic.twitter.com/ISMgRoFBvs — CBS Evening News (@CBSEveningNews) August 17, 2018	article784382409.txt	3234
@@ -1818,7 +1853,8 @@ But the press credentials for its conservative-leaning network were never revoke
 Fox News, The Washington Post, NBC News, The Associated Press and the Los Angeles Times are among the entities that have said they will file amicus briefs on behalf of CNN.	article999001323.txt	4661
 — Stephen Battaglio	article999001323.txt	4834
 Los Angeles Times	article999001323.txt	4854
-———©2018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.	article999001323.txt	4873
+———	article999001323.txt	4872
+©2018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.	article999001323.txt	4876
 #FreeTommy Robinson Rally Draws Tens Of Thousands	article763412406.txt	0
 This weekend, the #FreeTommy Robinson rally drew upwards of 20,000 supporters, according to organizers, in support of the outspoken critic of Islam and exposer of their crimes in his country and against his tyrannical arrest and imprisonment.	article763412406.txt	51
 Among those in attendance at the Saturday rally in London outside Downing Street were UKIP leader Gerard Batten, For Britain leader Anne Marie Waters, former Breitbart London editor-in-chief Raheem Kassam and Dutch opposition leader Geert Wilders.	article763412406.txt	294
@@ -1866,8 +1902,10 @@ Waters went on.	article763412406.txt	4366
 “And why are Muslims allowed to cover their faces with a black sack while the rest of us are subject to strict security?	article763412406.txt	4382
 Why are children being mutilated and forcefully raped while the law looks the other way?	article763412406.txt	4503
 Forcefully married, child married, while the law looks the other way?	article763412406.txt	4592
-Why?Why are animals slaughtered in agony and terror and Halal imposed on all of us in a country that has legislated against unstunned slaughter?	article763412406.txt	4663
-Why?"“Why is it so easy, Theresa May, to jail Tommy Robinson, but so difficult to do anything at all about the monstrous crimes committed in the name of Islam all over this country every day?	article763412406.txt	4809
+Why?	article763412406.txt	4662
+Why are animals slaughtered in agony and terror and Halal imposed on all of us in a country that has legislated against unstunned slaughter?	article763412406.txt	4667
+Why?"	article763412406.txt	4808
+“Why is it so easy, Theresa May, to jail Tommy Robinson, but so difficult to do anything at all about the monstrous crimes committed in the name of Islam all over this country every day?	article763412406.txt	4814
 Why?” Waters asked.	article763412406.txt	5001
 Well, the questions are obviously rhetorical.	article763412406.txt	5021
 We know why.	article763412406.txt	5067
@@ -1924,7 +1962,8 @@ Attempting to gather or share login credentials or personally identifiable infor
 Using another person’s login credentials or personally identifiable information	article794141509.txt	3080
 Promise non-existent Facebook features (source)	article794141509.txt	3160
 The Washington Post originally said that these pages were purged for “pushing political messages for profit” as you can see by their URL:	article794141509.txt	3208
-https://www.washingtonpost.com/technology/2018/10/11/facebook-purged-over-accounts-pages-pushing-political-messages-profit/?noredirect=on&utm_term=.fa1a364488b3But of course, since they too push political messages for profit (waaah, Trump!)	article794141509.txt	3347
+https://www.washingtonpost.com/technology/2018/10/11/facebook-purged-over-accounts-pages-pushing-political-messages-profit/?noredirect=on&utm_term=.fa1a364488b3	article794141509.txt	3346
+But of course, since they too push political messages for profit (waaah, Trump!)	article794141509.txt	3507
 as do all the other corporate media outlets out there, they changed their headline to “Facebook purged over 800 U.S. accounts and pages for pushing political spam.”	article794141509.txt	3588
 The fact that many of these accounts were also suspended by Twitter shortly thereafter should tell you that this is a coordinated effort to silence large swaths of the population.	article794141509.txt	3753
 Of course, the best coverage of this is from…Russia.	article794141509.txt	3933
@@ -1941,7 +1980,8 @@ People think that we are just providing an activist spin on the news, but they d
 For example, when someone is shot by police, mainstream media sources often just republish the press release from the police department, without presenting the victim’s side of the story.	article794141509.txt	5267
 We give the victims and their families a voice, which is essential to keep power in check.	article794141509.txt	5455
 This also goes for bigger issues like foreign policy as well; multiple full-scale invasions of Syria have been prevented because of information that the alternative media made viral.	article794141509.txt	5546
-(source)Nicholas Bernabe of The AntiMedia is another alternative journalist I consider a friend and support wholeheartedly.	article794141509.txt	5730
+(source)	article794141509.txt	5729
+Nicholas Bernabe of The AntiMedia is another alternative journalist I consider a friend and support wholeheartedly.	article794141509.txt	5738
 He’s worked tirelessly to be a voice of truth in a world of lies.	article794141509.txt	5854
 He told Sputnik:	article794141509.txt	5920
 Our approach generally is to cover stories and angles that corporate media underreport or misreport and to amplify activist and anti-war voices and stories.	article794141509.txt	5937
@@ -1953,7 +1993,8 @@ The timing of this purge is rather dubious in my view, coming shortly before the
 This could be an attempt by Facebook itself to affect the outcome of the coming elections.	article794141509.txt	6589
 The Twitter suspension caught me by surprise.	article794141509.txt	6680
 I can only speculate that these suspensions were a coordinated effort to stifle our message ahead of the coming elections.	article794141509.txt	6726
-(source)Remember, this is coordinated, across multiple platforms.	article794141509.txt	6850
+(source)	article794141509.txt	6849
+Remember, this is coordinated, across multiple platforms.	article794141509.txt	6858
 Remember when this happened to Alex Jones?	article794141509.txt	6916
 Back in September, an assault was led by YouTube, Google, and Facebook against Alex Jones of Infowars fame.	article794141509.txt	6959
 All of his accounts were shut down in quick succession, followed by his credit card processing companies and his newsletter service providers.	article794141509.txt	7067
@@ -1970,7 +2011,8 @@ It’s far more expensive than most people realize to run a site.	article7941415
 I know that my own operating costs every month are more than $2000.	article794141509.txt	7963
 A site as big as Jones’s would be many times that amount.	article794141509.txt	8031
 When all your avenues of monetization are cut off, it wouldn’t be hard for a site – and the dissent and information they share – to cease to exist.	article794141509.txt	8089
-(source)This is not just about Facebook or Twitter.	article794141509.txt	8238
+(source)	article794141509.txt	8237
+This is not just about Facebook or Twitter.	article794141509.txt	8246
 It’s about the ability to find dissenting information, period.	article794141509.txt	8290
 Google is in on it too.	article794141509.txt	8353
 A leaked document from Google supported the idea of censorship.	article794141509.txt	8377
@@ -1978,8 +2020,11 @@ Another Google document has found its way into the public domain, this time thro
 The news publication reports that an 85-page briefing entitled “The Good Censor,” advises tech companies to “police tone instead of content” and to not “take sides” when censoring users… Google might continue to shift with the times – changing its stance on how much or how little it censors (due to public, governmental or commercial pressures).	article794141509.txt	8536
 If it does, acknowledgment of what this shift in position means for users and for Google is essential.	article794141509.txt	8883
 Shifting blindly or silently in one direction or another rightly incites users’ fury… The Google “internal research” even quotes outside experts like George Soros who express justification of censorship in non-U.S. markets, noting that Google should police “tone instead of content” and “censor everyone equally,” as Breitbart put it.	article794141509.txt	8986
-(source)There are 2 trillion Google searches per day.	article794141509.txt	9322
-PER.DAY.That should give you an idea of the power of something like Google.	article794141509.txt	9378
+(source)	article794141509.txt	9321
+There are 2 trillion Google searches per day.	article794141509.txt	9330
+PER.	article794141509.txt	9376
+DAY.	article794141509.txt	9381
+That should give you an idea of the power of something like Google.	article794141509.txt	9386
 Combine it with billions of Facebook and Twitter users and you can easily see the influence wielded here.	article794141509.txt	9454
 This is where free thought goes to die.	article794141509.txt	9560
 Ron Paul reminds us that truth is treason.	article794141509.txt	9600
@@ -1987,7 +2032,8 @@ Ron Paul, former senator and the libertarian voice of reason, said when Jones wa
 “You get accused of treasonous activity and treasonous speech because in an empire of lies the truth is treason,” Paul told the Russia-based news outlet.	article794141509.txt	9733
 “Challenging the status quo is what they can’t stand and it unnerves them, so they have to silence people.” “Some of us tell the truth about our government, they call us treasonous and say we’re speaking out of line and they’d like to punish us, and I think that’s part of what’s happening with social media,” Paul told RT, adding that he hopes anti-government or anti-war voices can eliminate their “dependency” on the current social media platforms.	article794141509.txt	9887
 “I’m just hoping that technology can stay ahead of it all and that we can have real alternatives to the dependency on Twitter and other companies that have been working hand in glove with the government,” Paul added.	article794141509.txt	10339
-(source)Here’s a video from last month with Dr. Paul’s thoughts about the social media purge.	article794141509.txt	10557
+(source)	article794141509.txt	10556
+Here’s a video from last month with Dr. Paul’s thoughts about the social media purge.	article794141509.txt	10565
 In it, he reminds us that Facebook is a private entity so they do have every right to remove the pages they wish.	article794141509.txt	10651
 The danger – and the area in which this treads on the First Amendment – is their direct ties to the government.	article794141509.txt	10765
 This affects everyone.	article794141509.txt	10877
@@ -2044,7 +2090,8 @@ Here is disgraced Obama CIA director John Brennan, a leader of the fake Russiaga
 It was nothing short of treasonous.	article772836731.txt	3002
 Not only were Trump’s comments imbecilic, he is wholly in the pocket of Putin.	article772836731.txt	3038
 Republican Patriots: Where are you??	article772836731.txt	3117
-?”Here are many more.	article772836731.txt	3155
+?”	article772836731.txt	3154
+Here are many more.	article772836731.txt	3157
 And here is more from the CIA bought-and-paid-for BBC.	article772836731.txt	3177
 NOTICE THAT NOT ONE WESTERN MEDIA SOURCE IS CELEBRATING AND THANKING TRUMP AND PUTIN FOR EASING THE ARTIFICAILLY CREATED TENSIONS THAT WERE LEADING TO NUCLEAR WAR.	article772836731.txt	3232
 HOW CAN THIS BE?	article772836731.txt	3396
@@ -2139,7 +2186,8 @@ Should Jim Acosta have gotten his press pass back?	article999001256.txt	767
 Should Jim Acosta have gotten his press pass back?	article999001256.txt	818
 * Yes, he should have gotten it back.	article999001256.txt	869
 No, you can't act like a child and keep your pass.	article999001256.txt	907
-Maybe?I'm not sure if he should have.	article999001256.txt	959
+Maybe?	article999001256.txt	958
+I'm not sure if he should have.	article999001256.txt	965
 Email *	article999001256.txt	997
 Comments This field is for validation purposes and should be left unchanged.	article999001256.txt	1005
 Completing this poll grants you access to Freedom Outpost updates free of charge.	article999001256.txt	1082
@@ -2170,7 +2218,8 @@ She is the one claiming there was cancellation of hundreds of thousands of voter
 Where is her evidence?	article999001256.txt	3320
 She has none.	article999001256.txt	3343
 Stacey Abrams is a sore loser just like Hillary Clinton and this little temper tantrum she put on display will probably sink any chances she may have had in the future to run again.	article999001256.txt	3357
-Good!Thank God, Georgia didn't elect this peach.	article999001256.txt	3540
+Good!	article999001256.txt	3539
+Thank God, Georgia didn't elect this peach.	article999001256.txt	3545
 Dallas Police Officer Finally Arrested After Entering Wrong Apartment & Killing Man	article786004130.txt	0
 Last week, it was reported that Dallas Police Officer Amber Guyger entered an apartment she claims that she thought was hers and subsequently found the occupant of that apartment home and shot and killed him, claiming she thought he was an intruder.	article786004130.txt	85
 Now, after several days of outcry from the community, Guyger has been arrested and Charged with manslaughter in the death of 26-year-old Botham Jean.	article786004130.txt	335
@@ -2449,9 +2498,12 @@ These investigations will vie for status.	article832910505.txt	693
 Some will employ former Mueller coup members.	article832910505.txt	735
 They will be used by the Democrats running them to fundraise, in violation of all political norms and ethics, bringing us that much closer to a proper Roman circus.	article832910505.txt	781
 The three goals of all this are simple.	article832910505.txt	946
-1.Keep the media happy and profitable	article832910505.txt	987
-2.Undermine President Trump and prevent him from implementing reforms.	article832910505.txt	1026
-3.Punish the voting public for electing Trump	article832910505.txt	1098
+1.	article832910505.txt	986
+Keep the media happy and profitable	article832910505.txt	989
+2.	article832910505.txt	1025
+Undermine President Trump and prevent him from implementing reforms.	article832910505.txt	1028
+3.	article832910505.txt	1097
+Punish the voting public for electing Trump	article832910505.txt	1100
 Never underestimate the power of the swamp's spite.	article832910505.txt	1144
 Much of this is about self-defense.	article832910505.txt	1196
 The more Trump is investigated, the less he can investigate, reform or implement changes to the swamp.	article832910505.txt	1232
@@ -2460,7 +2512,8 @@ Culture wars are built on tribal rage.	article832910505.txt	1379
 That's what the "resistance" has always been about.	article832910505.txt	1418
 Federal judge rules against Trump administration on 3-D gun blueprint case	article782448403.txt	0
 (This article by McClatchy-Tribune contains fake news, which we refute at the end.	article782448403.txt	76
-–BL)A federal judge on Monday issued a preliminary injunction continuing a prohibition on the Trump administration proposal to make available blueprints for so-called ghost guns, untraceable weapons that can be manufactured on a 3D printer, California Attorney General Xavier Becerra said.	article782448403.txt	160
+–BL)	article782448403.txt	159
+A federal judge on Monday issued a preliminary injunction continuing a prohibition on the Trump administration proposal to make available blueprints for so-called ghost guns, untraceable weapons that can be manufactured on a 3D printer, California Attorney General Xavier Becerra said.	article782448403.txt	164
 California was one of 20 states led by Washington that won the decision from U.S. District Judge Robert S. Lasnik in Seattle.	article782448403.txt	450
 The injunction extends a ruling last month that barred the Trump administration from taking steps that would allow the firm Defense Distributed to disseminate 3D gun blueprints.	article782448403.txt	576
 “When the Trump Administration inexplicably gave the green light to distribute on the internet blueprints of 3D-printed, untraceable ghost guns, it needlessly endangered our children, our loved ones and our men and women in law enforcement,” Becerra said in a statement.	article782448403.txt	754
@@ -2469,14 +2522,15 @@ The action Monday keeps in place a July 31 court decision blocking the Trump adm
 “The Court finds that the irreparable burdens on the private defendants’ First Amendment rights are dwarfed by the irreparable harms the States are likely to suffer if the existing restrictions are withdrawn and that, overall, the public interest strongly supports maintaining the status quo through the pendency of this litigation,” Lasnik wrote in his decision.	article782448403.txt	1285
 — Patrick McGreevy	article782448403.txt	1649
 Los Angeles Times	article782448403.txt	1668
-———©2018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.	article782448403.txt	1687
+———	article782448403.txt	1686
+©2018 Los Angeles Times, Distributed by Tribune Content Agency, LLC.	article782448403.txt	1690
 The radical leftist gun grabbing anti-liberty California General Xavier Becerra is lying when he says the “Trump Administration inexplicably gave the green light to distribute on the internet blueprints of 3D-printed, untraceable ghost guns.” The Department of Just(Us) settled a 1st Amendment claim filed by Cody Wilson, who created the code for 3-D guns.	article782448403.txt	1759
 It was a case the government was about to lose.	article782448403.txt	2116
 The settlement was approved by a federal judge.	article782448403.txt	2164
 Becerra’s statement, “it needlessly endangered our children, our loved ones and our men and women in law enforcement,” is preposterous left-wing political argle-bargle.	article782448403.txt	2212
 I suspect the Washington judge’s stay will be overturned on appeal, but certainly will if it makes it to the Supreme Court.	article782448403.txt	2381
 The federal government has no standing to restrict speech in this manner.	article782448403.txt	2505
-–BL	article782448403.txt	2580
+–BL	article782448403.txt	2579
 Robert Mueller Not Recommending Any More Indictments	article832917532.txt	0
 Special counsel Robert Mueller will not recommend any more indictments as part of his investigation, the Justice Department announced Friday evening.	article832917532.txt	54
 A senior Justice Department official announced the development shortly after the special counsel submitted its final report to U.S. Attorney General William Barr.	article832917532.txt	204
@@ -2517,7 +2571,8 @@ The judge ordered the government to restore the credential while the rest of the
 But Kelly said he hasn’t considered at all yet whether the White House violated Acosta’s First Amendment rights.	article999001290.txt	1305
 More arguments are expected Tuesday.	article999001290.txt	1418
 “I trust this litigation will continue at a rapid pace.” Kelly said.	article999001290.txt	1455
-What?Due process?	article999001290.txt	1525
+What?	article999001290.txt	1524
+Due process?	article999001290.txt	1530
 Wait, Acosta was not charged with a crime.	article999001290.txt	1543
 Neither his property, liberty nor his life was taken.	article999001290.txt	1586
 There is no due process here.	article999001290.txt	1640
@@ -2527,7 +2582,8 @@ Should Jim Acosta have gotten his press pass back?	article999001290.txt	1759
 Should Jim Acosta have gotten his press pass back?	article999001290.txt	1810
 * Yes, he should have gotten it back.	article999001290.txt	1861
 No, you can't act like a child and keep your pass.	article999001290.txt	1899
-Maybe?I'm not sure if he should have.	article999001290.txt	1951
+Maybe?	article999001290.txt	1950
+I'm not sure if he should have.	article999001290.txt	1957
 Email *	article999001290.txt	1989
 Phone This field is for validation purposes and should be left unchanged.	article999001290.txt	1997
 Completing this poll grants you access to Freedom Outpost updates free of charge.	article999001290.txt	2071
@@ -2553,7 +2609,8 @@ More like a strong, lying, propagandizing press, right CNN?	article999001290.txt
 President Trump responded to the order.	article999001290.txt	3524
 He told Fox News' Chris Wallace, "Yeah, its fine, I mean it’s not a big deal.	article999001290.txt	3564
 What they said, though, is that we have to create rules and regulations for conduct etc.	article999001290.txt	3642
-etc.We’re doing that, were going to write them up right now.	article999001290.txt	3732
+etc.	article999001290.txt	3731
+We’re doing that, were going to write them up right now.	article999001290.txt	3736
 It’s not a big deal and if he misbehaves, we’ll throw him out or we’ll stop the news conference."	article999001290.txt	3793
 In speaking about the rules and regulations the White House is writing up, Trump added, "We’re writing them now.	article999001290.txt	3891
 We’ll have rules of decorum, you know you can’t keep asking questions.	article999001290.txt	4004
@@ -2627,7 +2684,10 @@ Willis was the last speaker at the demonstration.	article789512681.txt	6038
 According to a contemporaneous report in the St. Paul Pioneer Press, Willis told the crowd that Minneapolis police were experiencing the same fear from young black men that blacks had felt from police for many years.	article789512681.txt	6088
 “If the police have some fear, I understand that fear,” Willis said.	article789512681.txt	6305
 “We seem to have an overabundance of bad police.	article789512681.txt	6374
-...[W]e’re going to get rid of them,” Willis said.	article789512681.txt	6426
+.	article789512681.txt	6423
+.	article789512681.txt	6425
+.	article789512681.txt	6427
+[W]e’re going to get rid of them,” Willis said.	article789512681.txt	6429
 “They’ve got to go.” The Pioneer Press account concludes with Ellison’s contribution to the demonstration: “Ellison told the crowd that the police union is systematically frightening whites in order to get more police officers hired.	article789512681.txt	6477
 That way, Ellison said, the union can increase its power base.” Ellison publicly supported the Haaf murder defendants.	article789512681.txt	6711
 In February 1993, he spoke at a demonstration for one of them during his trial.	article789512681.txt	6830
@@ -2658,7 +2718,8 @@ Editor's Note: Talk about injustice!	article779309765.txt	143
 There were remains of a 4-year-old boy found there, who allegedly died while they were performing some sort of Islamic ritual over him.	article779309765.txt	180
 The Bundys and their supporters got nearly two years in jail and no one hurt a single person!	article779309765.txt	316
 Shame on those who are supposed to uphold law and justice!	article779309765.txt	410
-Shame!Taos County Sheriff Jerry Hogrefe testified that they found children holding boxes of ammunition, and that one child was found with a gun….	article779309765.txt	470
+Shame!	article779309765.txt	469
+Taos County Sheriff Jerry Hogrefe testified that they found children holding boxes of ammunition, and that one child was found with a gun….	article779309765.txt	476
 Because sharia trumps dead children, school shooting training, kidnapping and jihad training.	article779309765.txt	616
 The children discovered at an “extremist Muslim” compound in New Mexico earlier this month were both trained to use firearms and taught multiple tactical techniques in order to kill teachers, law enforcement and other institution….	article779309765.txt	710
 state prosecutors said on Monday.	article779309765.txt	942
@@ -2697,7 +2758,8 @@ Article posted with permission from Pamela Geller	article779309765.txt	4225
 New Mexico Jihadis’ Defense Attorney: “If These Were White Christians…No One Would Bat An Eye”	article787730392.txt	0
 Editor's Note: If they were white, devout Christians, we wouldn't hear about this cause it would have never taken place because it would have gone against the teachings of Christ and there would have been an outcry by Christians everywhere against people might engage in such behavior and would claim such things.	article787730392.txt	96
 "Federal prosecutors say that between Dec. 2017 and August 2018, the group, who are either siblings or related by marriage, had ‘a common plan to prepare for violent attacks on government, military, educational and financial institutions.	article787730392.txt	410
-'"Yeah, if they were white Christians, no one would care about that.	article787730392.txt	650
+'"	article787730392.txt	649
+Yeah, if they were white Christians, no one would care about that.	article787730392.txt	652
 take our poll - story continues below	article787730392.txt	719
 Who should replace Nikki Haley as our ambassador to the U.N.?	article787730392.txt	757
 Who should replace Nikki Haley as our ambassador to the U.N.?	article787730392.txt	819
@@ -2940,7 +3002,8 @@ Should Jim Acosta have gotten his press pass back?	article999000851.txt	1424
 Should Jim Acosta have gotten his press pass back?	article999000851.txt	1475
 * Yes, he should have gotten it back.	article999000851.txt	1526
 No, you can't act like a child and keep your pass.	article999000851.txt	1564
-Maybe?I'm not sure if he should have.	article999000851.txt	1616
+Maybe?	article999000851.txt	1615
+I'm not sure if he should have.	article999000851.txt	1622
 Email *	article999000851.txt	1654
 Name This field is for validation purposes and should be left unchanged.	article999000851.txt	1662
 Completing this poll grants you access to Truth Uncensored updates free of charge.	article999000851.txt	1735
@@ -2978,8 +3041,10 @@ The U.S. Attorney's Office in Albuquerque said compound resident Jany Leveille h
 She is a Haitian national.	article783774960.txt	1867
 The other four members are charged with conspiring with Leveille.	article783774960.txt	1894
 And the death of the three-year-old?	article783774960.txt	1960
-Nothing!And what of the training of little jihadis?	article783774960.txt	1998
-Nothing!“The defendants, Jany Leveille, 35, a Haitian national illegally present in the United States, Siraj Ibn Wahhaj, 40, Hujrah Wahhaj, 37, Subhanah Wahhaj, 35, and Lucas Morton, 40, are charged in a criminal complaint that was filed earlier today in the U.S. District Court for the District of New Mexico,” the bureau said in a statement.	article783774960.txt	2051
+Nothing!	article783774960.txt	1997
+And what of the training of little jihadis?	article783774960.txt	2006
+Nothing!	article783774960.txt	2050
+“The defendants, Jany Leveille, 35, a Haitian national illegally present in the United States, Siraj Ibn Wahhaj, 40, Hujrah Wahhaj, 37, Subhanah Wahhaj, 35, and Lucas Morton, 40, are charged in a criminal complaint that was filed earlier today in the U.S. District Court for the District of New Mexico,” the bureau said in a statement.	article783774960.txt	2059
 “The criminal complaint charges Jany Leveille with being an alien unlawfully in possession of firearms and ammunition in the District of New Mexico from Nov. 2017 through Aug. 2018,” the bureau said.	article783774960.txt	2395
 “The criminal complaint charges the other four defendants with aiding and abetting Leveille in committing the offense, and with conspiring with Leveille to commit the offense.”	article783774960.txt	2595
 Yet, in the midst of all of this, don't forget that the FBI ignore the intelligence that was provided to them, just like they have in many cases, which, if they had acted, they may have saved the little boy's life.	article783774960.txt	2772
@@ -3037,7 +3102,8 @@ Should Jim Acosta have gotten his press pass back?	article999000878.txt	927
 Should Jim Acosta have gotten his press pass back?	article999000878.txt	978
 * Yes, he should have gotten it back.	article999000878.txt	1029
 No, you can't act like a child and keep your pass.	article999000878.txt	1067
-Maybe?I'm not sure if he should have.	article999000878.txt	1119
+Maybe?	article999000878.txt	1118
+I'm not sure if he should have.	article999000878.txt	1125
 Email *	article999000878.txt	1157
 Email This field is for validation purposes and should be left unchanged.	article999000878.txt	1165
 Completing this poll grants you access to Truth Uncensored updates free of charge.	article999000878.txt	1239

@@ -4,8 +4,11 @@ TRAIN_ARTICLES_DIR = "datasets/train-articles/"
 TRAIN_LABEL_DIR = "datasets/train-labels-task1-span-identification/"
 TRAIN_PROCESSED_LABELS_DIR = "datasets/processed-trained-labels-SI/"
 
-for filename in os.listdir(TRAIN_ARTICLES_DIR):
+punc_list = [' ', ',', '"', ";", ":", "!", "?", "'"]
 
+for filename in os.listdir(TRAIN_ARTICLES_DIR):
+    if filename != "article0000001.txt":
+        continue
     with open(TRAIN_LABEL_DIR + filename.split('.')[0] + '.task1-SI.labels', 'r') as f:
         lines = f.readlines()
     indices = [x.rstrip().split('\t')[1:] for x in lines]
@@ -20,9 +23,10 @@ for filename in os.listdir(TRAIN_ARTICLES_DIR):
             low, high = index
             while start < low:
                 c = f.read(1)
-                if c == ' ':
+                if c in punc_list:
                     end_counter = 0
-                    buffer += "0 "
+                    if c == ' ':
+                        buffer += "0 "
                 if c == '\n':
                     if end_counter == 0:
                         buffer += "0"
@@ -32,9 +36,10 @@ for filename in os.listdir(TRAIN_ARTICLES_DIR):
 
             while start <= high:
                 c = f.read(1)
-                if c == ' ':
+                if c in punc_list:
                     end_counter = 0
-                    buffer += "1 "
+                    if c == ' ' or start == high:
+                        buffer += "1 "
                 if c == '\n' or c == '':
                     if end_counter == 0:
                         buffer += "1"
@@ -44,9 +49,10 @@ for filename in os.listdir(TRAIN_ARTICLES_DIR):
 
         c = f.read(1)
         while c != '':
-            if c == ' ':
+            if c in punc_list:
                 end_counter = 0
-                buffer += "0 "
+                if c == ' ':
+                    buffer += "0 "
             if c == '\n':
                 if end_counter == 0:
                     buffer += "0"
