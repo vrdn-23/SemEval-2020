@@ -1,5 +1,5 @@
 SUBMISSION_FILENAME = "datasets/submission-SI.txt"
-MODEL_OUTPUT_FILENAME = "datasets/train-SI.txt"
+MODEL_OUTPUT_FILENAME = "datasets/labelled_test-SI.txt"
 
 with open(MODEL_OUTPUT_FILENAME, 'r') as f:
     lines = f.readlines()

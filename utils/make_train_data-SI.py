@@ -1,10 +1,13 @@
 import os
 
-TRAIN_ARTICLES_DIR = "datasets/train-articles/"
-TRAIN_LABEL_DIR = "datasets/train-labels-task1-span-identification/"
-TRAIN_PROCESSED_LABELS_DIR = "datasets/processed-trained-labels-SI/"
+# TRAIN_ARTICLES_DIR = "datasets/train-articles/"
+# TRAIN_LABEL_DIR = "datasets/train-labels-task1-span-identification/"
+# res = open("datasets/train-SI.txt", 'w')
 
-res = open("datasets/train-SI.txt", 'w')
+TRAIN_ARTICLES_DIR = "datasets/dev-articles/"
+TRAIN_LABEL_DIR = "datasets/gold-dev/dev-labels-task1-span-identification/"
+res = open("datasets/dev-SI.txt", 'w')
+
 
 for filename in os.listdir(TRAIN_ARTICLES_DIR):
 
@@ -20,6 +23,8 @@ for filename in os.listdir(TRAIN_ARTICLES_DIR):
         index = 0
 
         for line in f:
+            line = line.replace(chr(8212), " ")
+            line = line.replace("-", " ")
             sentence_offset = offset
             labels = []
             words = line.rstrip().split(" ")
@@ -28,6 +33,9 @@ for filename in os.listdir(TRAIN_ARTICLES_DIR):
                 continue
 
             for word in words:
+                if not word:
+                    offset += 1
+                    continue
                 if index < len(indices):
                     low = indices[index][0]
                     high = indices[index][1]
