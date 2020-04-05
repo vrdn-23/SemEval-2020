@@ -9,8 +9,8 @@ import random, time
 import numpy as np
 from tqdm import tqdm
 from optimizer import *
-import sys
-sys.path.append("/Users/aiswaryavinodkumar/Desktop/Project/SemEval-2020/")
+import sys #local change
+sys.path.append("/Users/aiswaryavinodkumar/Desktop/Project/SemEval-2020/") #local change
 from tools.utils.load_dataset import read_examples_from_file, convert_examples_to_features
 ignore_index = -100
 PAD = 0
