@@ -4,6 +4,9 @@ from torch import nn
 from torch.nn.utils.rnn import pad_sequence
 from transformers import BertTokenizer, BertForTokenClassification
 from tools.utils.load_dataset import read_examples_from_file, convert_examples_to_features, InputFeatures, custom_decode, write_labels_to_file
+#from load_dataset import read_examples_from_file, convert_examples_to_features, InputFeatures, \
+    #custom_decode, \
+    #write_labels_to_file
 from torch.utils.data import Dataset, DataLoader
 import time
 import numpy as np
@@ -57,17 +60,17 @@ def inference(model, test_loader, device, tokenizer, test_examples):
             prediction = torch.max(scores, 2)[1].flatten()
             prediction_labels.extend(custom_decode(tokenizer, flattened_input_ids, prediction,
                                                    test_examples[iteration * test_loader.batch_size: (
-                                                                                                                 iteration + 1) * test_loader.batch_size]))
+                                                                                                             iteration + 1) * test_loader.batch_size]))
 
     return prediction_labels
 
 
-def train(model, train_loader, dev_loader, args, optimizer, device, scheduler):
+def train(model, train_loader, dev_loader, args, optimizer, device, scheduler, test_loader, tokenizer, test_examples):
     best_dev_loss = np.inf
     best_epoch = 0
     optimizer.zero_grad()
 
-    criterion = nn.CrossEntropyLoss(ignore_index=ignore_index, reduction="sum")
+    criterion = nn.CrossEntropyLoss(ignore_index=ignore_index)
 
     for epoch in range(args.epochs):
         start = time.time()
@@ -76,11 +79,13 @@ def train(model, train_loader, dev_loader, args, optimizer, device, scheduler):
 
         for iteration, (input_ids, attention_mask, labels) in tqdm(enumerate(train_loader)):
             input_ids, attention_mask, labels = input_ids.to(device), attention_mask.to(device), labels.to(device)
-            scheduler.step(epoch + iteration / len(train_loader))
+            # scheduler.step(epoch + iteration / len(train_loader))
             scores, *_ = model(input_ids=input_ids, attention_mask=attention_mask)
 
             scores_flattened = scores.view(-1, scores.shape[-1])
             labels_flattened = labels.view(-1)
+            prediction = torch.max(scores, 2)[1].flatten()
+            print(torch.unique(prediction))
 
             # TODO: Check reduction across batch and across sentence and also, overall formula
             loss = criterion(scores_flattened, labels_flattened)
@@ -109,11 +114,11 @@ def train(model, train_loader, dev_loader, args, optimizer, device, scheduler):
         if dev_loss < best_dev_loss:
             best_dev_loss = dev_loss
             best_epoch = epoch
+            predicted_labels = inference(model, test_loader, device, tokenizer, test_examples)
+            write_labels_to_file(args.sub_file + str(epoch) + ".txt", predicted_labels, test_examples)
 
-
-
-        torch.save(model.state_dict(), args.model_path + 'model' + str(epoch) + '.pt')
-        torch.save(optimizer.state_dict(), args.model_path + 'optimizer' + str(epoch) + '.pt')
+            torch.save(model.state_dict(), args.model_path + 'model' + str(epoch) + '.pt')
+            torch.save(optimizer.state_dict(), args.model_path + 'optimizer' + str(epoch) + '.pt')
         print('Time taken ' + str(time.time() - start) + ' seconds for epoch ' + str(epoch))
 
     print('Least validation error {:.4f} at epoch {}'.format(best_dev_loss, best_epoch))
@@ -137,6 +142,7 @@ def main():
     tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
     model = BertForTokenClassification.from_pretrained("bert-base-uncased")
     model.to(device)
+    tokenizer
 
     # TODO: Extend entire code from here to TC
 
@@ -155,21 +161,19 @@ def main():
     test_examples = read_examples_from_file(args.test_file, SI_labels, args.random_n)
     test_data = convert_examples_to_features(test_examples, tokenizer, SI_labels, ignore_index)
 
-    train_dataset, dev_dataset, test_dataset = customDataset(train_data), customDataset(dev_data), customDataset(test_data)
-    #test_dataset = customDataset(test_data)
+    train_dataset, dev_dataset, test_dataset = customDataset(train_data), customDataset(dev_data), customDataset(
+        test_data)
+    # test_dataset = customDataset(test_data)
     train_loader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=custom_collate_fn)
     dev_loader = DataLoader(dev_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=custom_collate_fn)
     test_loader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=custom_collate_fn)
 
     print("Data Loaders ready")
 
-    optimizer = torch.optim.Adam(model.parameters(), lr=3e-5)
+    optimizer = torch.optim.Adam(model.parameters())
     scheduler = torch.optim.lr_scheduler.CosineAnnealingWarmRestarts(optimizer, 10)
 
-
-    train(model, train_loader, dev_loader, args, optimizer, device, scheduler)
-    predicted_labels = inference(model, test_loader, device, tokenizer, test_examples)
-    write_labels_to_file(args.sub_file, predicted_labels, test_examples)
+    train(model, train_loader, dev_loader, args, optimizer, device, scheduler, test_loader, tokenizer, test_examples)
 
     return 0
 

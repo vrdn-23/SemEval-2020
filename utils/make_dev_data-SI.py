@@ -1,8 +1,8 @@
 import os
 
-DEV_ARTICLES_DIR = "datasets/test/test-articles/"
+DEV_ARTICLES_DIR = "datasets/dev-articles/"
 
-res = open("datasets/test-SI.txt", 'w')
+res = open("datasets/unlabelled-dev-SI.txt", 'w')
 
 for filename in os.listdir(DEV_ARTICLES_DIR):
     with open(DEV_ARTICLES_DIR + filename, 'r') as f:

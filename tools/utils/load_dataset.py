@@ -123,7 +123,7 @@ def custom_decode(tokenizer, input_ids, labels, test_examples):
                 final_token_count += 1
             i += 1
             pass
-        print(i, " ==> ", tuple([final_tokens[final_token_count], final_words[i]]), " ==> ", len(final_final_labels))
+        #print(i, " ==> ", tuple([final_tokens[final_token_count], final_words[i]]), " ==> ", len(final_final_labels))
         if final_tokens[final_token_count] in final_words[i].lower():
             final_final_words.append(final_words[i])
             final_final_labels.append(final_labels[final_token_count])
