@@ -9,9 +9,10 @@ import random, time
 import numpy as np
 from tqdm import tqdm
 from optimizer import *
-import sys #local change
-sys.path.append("/Users/aiswaryavinodkumar/Desktop/Project/SemEval-2020/") #local change
+import sys  # local change
+# sys.path.append("/Users/aiswaryavinodkumar/Desktop/Project/SemEval-2020/") #local change
 from tools.utils.load_dataset import read_examples_from_file, convert_examples_to_features
+
 ignore_index = -100
 PAD = 0
 
@@ -55,7 +56,7 @@ def train(model, train_loader, dev_loader, args, optimizer, scheduler, device):
         model.train()
         train_loss = 0
 
-        for iteration,(input_ids, attention_mask, labels) in tqdm(enumerate(train_loader)):
+        for iteration, (input_ids, attention_mask, labels) in tqdm(enumerate(train_loader)):
             input_ids, attention_mask, labels = input_ids.to(device), attention_mask.to(device), labels.to(device)
             scores, *_ = model(input_ids=input_ids, attention_mask=attention_mask)
 
@@ -126,7 +127,6 @@ def main():
     )
     parser.add_argument("--warmup_steps", default=0, type=int, help="Linear warmup over warmup_steps.")
 
-
     args = parser.parse_args()
 
     cuda = torch.cuda.is_available()
@@ -142,14 +142,14 @@ def main():
     SI_labels = dict()
     SI_labels[0] = 0
     SI_labels[1] = 1
-    SI_inv_labels = {value : key for key, value in SI_labels.items()}
+    SI_inv_labels = {value: key for key, value in SI_labels.items()}
 
     input_examples = read_examples_from_file(args.data_file, SI_labels, args.random_n)
     data = convert_examples_to_features(input_examples, tokenizer, SI_labels, ignore_index)
 
     num = len(data)
     random.shuffle(data)
-    border = int(0.8*num)
+    border = int(0.8 * num)
     train_data = data[: border]
     dev_data = data[border:]
 
@@ -159,7 +159,7 @@ def main():
 
     print("Data Loaders ready")
 
-    #optimizer = torch.optim.Adam(model.parameters()) VINAY
+    # optimizer = torch.optim.Adam(model.parameters()) VINAY
     no_decay = ["bias", "LayerNorm.weight"]
     optimizer_grouped_parameters = [
         {
@@ -178,10 +178,10 @@ def main():
         optimizer, num_warmup_steps=args.warmup_steps, num_training_steps=t_total
     )
 
-    train(model, train_loader, dev_loader, args, optimizer, scheduler,device)
+    train(model, train_loader, dev_loader, args, optimizer, scheduler, device)
 
     return 0
 
 
-if __name__=='__main__':
+if __name__ == '__main__':
     main()
