@@ -1,10 +1,10 @@
 import os
 
-TRAIN_ARTICLES_DIR = "datasets/train-articles/"
-TRAIN_LABEL_DIR = "datasets/train-labels-task2-technique-classification/"
+TRAIN_ARTICLES_DIR = "datasets/dev-articles/"
+TRAIN_LABEL_DIR = "datasets/gold-dev/dev-labels-task2-technique-classification/"
 TRAIN_PROCESSED_LABELS_DIR = "datasets/processed-trained-labels-TC/"
 
-res = open("datasets/train-TC.txt", 'w')
+res = open("datasets/dev-TC.txt", 'w')
 
 for filename in os.listdir(TRAIN_ARTICLES_DIR):
 
